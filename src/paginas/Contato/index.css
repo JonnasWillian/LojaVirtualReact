@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    padding: 30px;
+    margin: 15px;
+}
+
+.Contato img{
+    max-width: 80px;
+    max-height: 70px;
+}
+
+.Contato table{
+    text-align: center;
+    width: 100%;
+}
