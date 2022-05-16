@@ -2,6 +2,7 @@
     text-align: center;
 }
 
+/* Produtos */
 .produtos{
     max-width: 1200px;
     margin: 0 auto;
@@ -88,3 +89,81 @@
     font-size: 18px;
     border-radius: 15px;
   }
+
+  /* Serviços em geral */
+
+  .servicos{
+    text-align: center;
+    background-color: #131313;
+}
+
+.servicos h2{
+    color: #08b7f7;
+    padding-top: 30px;
+}
+
+section .catalog {
+    width: 100vw;
+    padding: 100px;
+  }
+  
+  section .filter-card {
+    width: 980px;
+    height: 150px;
+    background: #ededed;
+    border-radius: 8px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .title-wrapper-catalog {
+    margin-top: 50px;
+    padding-bottom: 10px;
+  }
+  
+  section .card-wrapper {
+    max-width: 1500px;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    grid-gap: 30px;
+    padding-top: 50px;
+    padding: 10px;
+  }
+  
+  section .card-item {
+    height: 400px;
+    background: #ededed;;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .card-content {
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .card-item img {
+    width: 30%;
+  }
+  
+  .card-item h4 {
+    width: 90%;
+  }
+  
+  .card-item p {
+    width: 90%;
+    font-style: italic;
+    color: #00000070;
+    margin-top:0px;
+  }
+  
