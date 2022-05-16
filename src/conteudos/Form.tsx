@@ -2,7 +2,7 @@
 function Form (){
     return(
         <div className="form">
-        <h2>ENTRE EM CONTATO !</h2>
+        <h2>ENTRE EM CONTATO</h2>
           <form >
             <div className="items-form">
               <input placeholder="Seu nome" type="text"/>

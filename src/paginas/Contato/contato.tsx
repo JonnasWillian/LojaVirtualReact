@@ -24,22 +24,39 @@ export const contato = () => {
             <div className="Contato">
 
                 <table>
+
                     <tr>
                         <td><img src={imgWathsapp} alt="Telefone" /></td>
                         <td><img src={imgInstagram} alt="Instagram" /></td>
-                        <td><img src={imgGithub} alt="Github" /></td>
-                        <td><img src={imgemail} alt="Email" /></td>
-                        <td><img src={imgLinkedin} alt="Linkedin" /></td>
-                        <td><img src={imgLocal} alt="Localização" /></td>
                     </tr>
                     <tr>
                         <td>(71)99969-7820</td>
                         <td>Jonnywf</td>
-                        <td>Jonnas Willian</td>
+                    </tr>
+
+                    <br/><br/>
+
+                    <tr>
+                        <td><img src={imgemail} alt="Email" /></td>
+                        <td><img src={imgGithub} alt="Github" /></td>
+                    </tr>
+                    <tr>
                         <td>jonnasnogueira2@gmail.com</td>
+                        <td>Jonnas Willian</td>
+                    </tr>
+
+                    <br /><br />
+
+                    <tr>
+                        <td><img src={imgLinkedin} alt="Linkedin" /></td>
+                        <td><img src={imgLocal} alt="Localização" /></td>
+                    </tr>
+
+                    <tr>
                         <td>Jonnas Willian</td>
                         <td>Salvador</td>
                     </tr>
+
                 </table>
 
             </div>

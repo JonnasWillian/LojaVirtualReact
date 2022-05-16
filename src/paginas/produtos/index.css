@@ -108,6 +108,7 @@ section .catalog {
   }
   
   section .filter-card {
+    max-width: 1000px;
     width: 980px;
     height: 150px;
     background: #ededed;
