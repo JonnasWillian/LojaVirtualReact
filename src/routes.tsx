@@ -1,18 +1,20 @@
-import React from "react";
-import {BrowserRouter, Route } from 'react-router-dom'
-//import App from "./App";
+import {BrowserRouter, Routes, Route } from 'react-router-dom'
 import Contato from "./paginas/Contato/contato";
 import Main from "./paginas/inicial/main";
+import Produtos from './paginas/produtos/produtos';
 
-function Routes(){
+function Rooutes(){
+
     return(
         <BrowserRouter>
-            <switch>
+            <Routes> 
                     <Route path="/" element={<Main/>} />
                     <Route path="/Contato" element={ <Contato/> }/>
-            </switch>
+                    <Route path="/Produtos" element={ <Produtos/> }/>
+            </Routes>
         </BrowserRouter>
     )
+
 }
 
-export default Routes; 
+export default Rooutes; 

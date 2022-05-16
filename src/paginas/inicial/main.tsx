@@ -1,4 +1,3 @@
-
 import Wathsapp from '../../conteudos/Wathsapp';
 import Rodape from '../../conteudos/Rodape';
 import logo from  "../../img/perfil.jpg" 
@@ -6,7 +5,7 @@ import Menu from '../../conteudos/menu';
 import '../../App.css';
 
 function Main() {
-  return (
+  return ( 
     <div>
 
       <Menu/>

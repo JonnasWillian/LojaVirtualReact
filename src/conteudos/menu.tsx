@@ -8,12 +8,12 @@ function menu (){
                 <div className="menu">
 
                     <div className="logo">
-                    <h3>JONNYWF</h3>
+                    <h3> <a href="/">JONNYWF</a></h3>
                     </div>
 
                     <div className="item-menu">
-                    <a  rel="noreferrer" href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20vim%20pela%20sua%20p%C3%A1gina" target="_blank" >Contato</a> 
-                    <a  rel="noreferrer" href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20vim%20pela%20sua%20p%C3%A1gina" target="_blank" >Produtos</a> 
+                    <a  rel="noreferrer" href="/Contato" >Contato</a> 
+                    <a  rel="noreferrer" href="/Produtos" >Produtos</a> 
                     </div>
 
                 </div>

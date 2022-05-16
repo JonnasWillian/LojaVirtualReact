@@ -11,7 +11,7 @@ import imgGithub from '../../img/github.png';
 import imgemail from '../../img/Email2.png';
 import imgLinkedin from '../../img/linkedin.png';
 import imgLocal from '../../img/localizacao.png';
-
+ 
 export const contato = () => {
     return(
         
