@@ -210,7 +210,7 @@ function Main() {
 
         <div className="venda">
             <br/>
-            <button><a href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20os%20seus%20servi%C3%A7os">COMPRAR</a></button>
+            <button><a href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20os%20seus%20servi%C3%A7os" target="_blank">COMPRAR</a></button>
         </div>
 
         </div>
@@ -231,7 +231,7 @@ function Main() {
 
         <div className="venda">
             <br/>
-            <button><a href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20os%20seus%20servi%C3%A7os">COMPRAR</a></button>
+            <button><a href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20os%20seus%20servi%C3%A7os" target="_blank">COMPRAR</a></button>
         </div>
         
         </div>
@@ -251,7 +251,7 @@ function Main() {
 
         <div className="venda">
             <br/>
-            <button><a href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20os%20seus%20servi%C3%A7os">COMPRAR</a></button>
+            <button><a href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20os%20seus%20servi%C3%A7os" target="_blank">COMPRAR</a></button>
         </div>
         
         </div>
@@ -286,7 +286,7 @@ function Main() {
 
         <div className="venda">
             <br/>
-            <button><a href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20os%20seus%20servi%C3%A7os">COMPRAR</a></button>
+            <button><a href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20os%20seus%20servi%C3%A7os" target="_blank">COMPRAR</a></button>
         </div>
         
         </div>
@@ -306,7 +306,7 @@ function Main() {
 
         <div className="venda">
             <br/>
-            <button><a href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20os%20seus%20servi%C3%A7os">COMPRAR</a></button>
+            <button><a href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20os%20seus%20servi%C3%A7os" target="_blank">COMPRAR</a></button>
         </div>
         
         </div>
@@ -326,7 +326,7 @@ function Main() {
 
         <div className="venda">
             <br/>
-            <button><a href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20os%20seus%20servi%C3%A7os">COMPRAR</a></button>
+            <button><a href="https://api.whatsapp.com/send?phone=5571999697820&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20os%20seus%20servi%C3%A7os" target="_blank">COMPRAR</a></button>
         </div>
         
         </div>
